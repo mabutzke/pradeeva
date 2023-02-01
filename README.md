@@ -1,0 +1,2 @@
+# pradeeva
+WordPress Theme
